@@ -12,7 +12,7 @@
 
 * You can collect data in Udacity Simulator. 3 laps in either direction is sufficient, but more makes for a much better driving.
 
-### Importan note!
+## Importan note!
 
 * You need to use `python-socketio==4.6.1` and `python-engineio==3.13.2` for communication between drive.py and simulation.
 
